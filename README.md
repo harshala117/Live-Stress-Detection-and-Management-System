@@ -45,26 +45,50 @@ Frustration
 Processed using feature extraction techniques to improve accuracy
 
 🚀 Advantages
+
 Non-intrusive approach (no sensors required)
+
 Real-time monitoring
+
 Automated system reduces manual effort
+
 Helps in early detection of stress
+
 Improves employee productivity
+
 ⚠️ Limitations of Existing Systems
+
 Depend on physiological sensors
+
 Less comfortable for real-world usage
+
 Time-consuming and manual
+
 Hard to generalize stress patterns
+
+
 💻 System Requirements
+
 Hardware
+
 Intel i7 Processor
+
 16 GB RAM
+
 1 TB Storage
+
 Software
+
 Windows 10
+
 Python
+
 PyCharm / VS Code
+
 SQLite
+
 👥 Contributors
+
 Harshala Pawar
+
 Aashi
